@@ -1,0 +1,69 @@
+body {
+  font-family: freight-neo-pro, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  margin: 0 10%;
+}
+
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  width: 100%;
+}
+
+.color-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+  font-family: proxima-nova;
+}
+
+.smoky-black {
+  background-color: #14110f;
+  color: white;
+}
+
+.white {
+  background-color: #fcfcfc;
+  color: black;
+}
+
+.bitter-lime {
+  background-color: #c3f73a;
+  color: black;
+}
+
+.dark-electricBlue {
+  background-color: #61707d;
+  color: white;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.proxima-nova {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
